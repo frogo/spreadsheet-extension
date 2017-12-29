@@ -1,0 +1,1152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/data.js" line="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7199666-7c16-49ab-adbd-b804c5c79276" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="39" column="22" lean-forward="false" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DashboardComponent.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/DashboardComponent.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="44" lean-forward="false" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+                <element signature="e#292#3386#0" expanded="false" />
+                <element signature="e#3569#6049#0" expanded="false" />
+                <element signature="e#6052#6101#0" expanded="false" />
+                <element signature="n#DashboardSelectPanel#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="102" lean-forward="false" selection-start-line="11" selection-start-column="102" selection-end-line="11" selection-end-column="102" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="106" column="14" lean-forward="false" selection-start-line="106" selection-start-column="14" selection-end-line="106" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1140">
+              <caret line="842" column="0" lean-forward="false" selection-start-line="842" selection-start-column="0" selection-end-line="842" selection-end-column="0" />
+              <folding>
+                <element signature="e#1380#2736#0" expanded="false" />
+                <element signature="e#2746#4103#0" expanded="false" />
+                <element signature="e#4113#5472#0" expanded="false" />
+                <element signature="e#5482#6828#0" expanded="false" />
+                <element signature="e#6838#8190#0" expanded="false" />
+                <element signature="e#8200#9558#0" expanded="false" />
+                <element signature="e#9568#10919#0" expanded="false" />
+                <element signature="e#10929#12282#0" expanded="false" />
+                <element signature="e#12292#13641#0" expanded="false" />
+                <element signature="e#13651#15006#0" expanded="false" />
+                <element signature="e#15016#16371#0" expanded="false" />
+                <element signature="e#16381#17686#0" expanded="false" />
+                <element signature="e#17696#19001#0" expanded="false" />
+                <element signature="e#19011#20316#0" expanded="false" />
+                <element signature="e#20326#21631#0" expanded="false" />
+                <element signature="e#21641#22945#0" expanded="false" />
+                <element signature="e#22955#24259#0" expanded="false" />
+                <element signature="e#24269#25573#0" expanded="false" />
+                <element signature="e#25583#26887#0" expanded="false" />
+                <element signature="e#26897#28248#0" expanded="false" />
+                <element signature="e#28258#29615#0" expanded="false" />
+                <element signature="e#29625#30976#0" expanded="false" />
+                <element signature="e#30986#32337#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboardData.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashboardData.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spreadsheet.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spreadsheet.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1253">
+              <caret line="1631" column="7" lean-forward="false" selection-start-line="1631" selection-start-column="7" selection-end-line="1631" selection-end-column="7" />
+              <folding>
+                <element signature="e#316#388#0" expanded="true" />
+                <element signature="e#520#567#0" expanded="true" />
+                <element signature="e#803#1823#0" expanded="false" />
+                <element signature="n#!!block;n#isAllEqual#0" expanded="false" />
+                <element signature="n#!!block;n#isString#0" expanded="false" />
+                <element signature="n#!!block;n#Workbook#0" expanded="false" />
+                <element signature="n#!!block;n#s2ab#0" expanded="false" />
+                <element signature="n#!!block;n#datenum#0" expanded="false" />
+                <element signature="n#!!block;n#save#0" expanded="false" />
+                <element signature="n#!!block;n#exportXlsx#0" expanded="false" />
+                <element signature="n#!!block;n#switchingData#0" expanded="false" />
+                <element signature="n#!!block;n#cellColorAlarm#0" expanded="false" />
+                <element signature="e#20516#46761#0" expanded="false" />
+                <element signature="n#!!block;n#translation#0" expanded="false" />
+                <element signature="e#47576#47790#0" expanded="false" />
+                <element signature="e#48861#49679#0" expanded="false" />
+                <element signature="e#49905#50114#0" expanded="false" />
+                <element signature="e#50345#50492#0" expanded="false" />
+                <element signature="e#50728#56856#0" expanded="false" />
+                <element signature="e#57054#59869#0" expanded="false" />
+                <element signature="e#59898#62632#0" expanded="false" />
+                <element signature="e#62665#65162#0" expanded="false" />
+                <element signature="e#65403#65600#0" expanded="false" />
+                <element signature="e#67342#71408#0" expanded="false" />
+                <element signature="e#73762#77499#0" expanded="false" />
+                <element signature="e#76562#77484#0" expanded="false" />
+                <element signature="e#77533#80974#0" expanded="false" />
+                <marker date="1514542116273" expanded="true" signature="48213:48236" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SocialCalc.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/socialcalc/SocialCalc.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#767#2033#0" expanded="false" />
+                <element signature="e#2086#2126#0" expanded="false" />
+                <element signature="e#3695#49214#0" expanded="false" />
+                <element signature="e#1018778#1019285#0" expanded="false" />
+                <element signature="e#1019375#1019522#0" expanded="false" />
+                <marker date="1514530292283" expanded="true" signature="923543:923577" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="923669:923681" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="923997:924003" ph=" " />
+                <marker date="1514530292283" expanded="true" signature="924003:924009" ph=" " />
+                <marker date="1514530292283" expanded="true" signature="924048:924082" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="924174:924186" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="924512:924568" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="924692:924753" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="924817:924835" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="924896:924902" ph=" " />
+                <marker date="1514530292283" expanded="true" signature="924965:924983" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="925620:925650" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="925677:925751" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="925756:925762" ph=" " />
+                <marker date="1514530292283" expanded="true" signature="925810:925851" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="925910:925916" ph=" " />
+                <marker date="1514530292283" expanded="true" signature="925917:925923" ph=" " />
+                <marker date="1514530292283" expanded="true" signature="925963:925985" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="930405:930454" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="930500:930569" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="930652:930670" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="930732:930738" ph=" " />
+                <marker date="1514530292283" expanded="true" signature="930799:930817" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="930879:930885" ph=" " />
+                <marker date="1514530292283" expanded="true" signature="930947:930965" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="931601:931631" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="931658:931732" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="931814:931855" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="931914:931920" ph=" " />
+                <marker date="1514530292283" expanded="true" signature="931921:931927" ph=" " />
+                <marker date="1514530292283" expanded="true" signature="931967:931989" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="935772:935796" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="935824:935842" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="935935:935947" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="936028:936046" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="936130:936142" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="936310:936328" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="936427:936439" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="936528:936546" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="936646:936658" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="936825:936831" ph=" " />
+                <marker date="1514530292283" expanded="true" signature="936857:936875" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="936975:936981" ph=" " />
+                <marker date="1514530292283" expanded="true" signature="937007:937025" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="937110:937179" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="937254:937272" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="937329:937335" ph=" " />
+                <marker date="1514530292283" expanded="true" signature="937396:937414" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="937471:937477" ph=" " />
+                <marker date="1514530292283" expanded="true" signature="937539:937557" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="938188:938218" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="938245:938319" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="938324:938330" ph=" " />
+                <marker date="1514530292283" expanded="true" signature="938383:938424" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="938478:938484" ph=" " />
+                <marker date="1514530292283" expanded="true" signature="938485:938491" ph=" " />
+                <marker date="1514530292283" expanded="true" signature="938531:938553" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="994931:994956" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="1001949:1001965" ph="..." />
+                <marker date="1514530292283" expanded="true" signature="1001984:1001990" ph=" " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RangeAndColorComponent.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/RangeAndColorComponent.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="281" column="6" lean-forward="false" selection-start-line="281" selection-start-column="6" selection-end-line="281" selection-end-column="6" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#193#231#0" expanded="true" />
+                <element signature="e#497#1448#0" expanded="false" />
+                <element signature="e#806#1056#0" expanded="false" />
+                <element signature="e#1079#1446#0" expanded="false" />
+                <element signature="e#1525#4176#0" expanded="false" />
+                <element signature="e#4284#6524#0" expanded="false" />
+                <element signature="e#4596#4732#0" expanded="false" />
+                <element signature="e#4746#5020#0" expanded="false" />
+                <element signature="e#5172#5334#0" expanded="false" />
+                <element signature="e#5375#5951#0" expanded="false" />
+                <element signature="e#5989#6426#0" expanded="false" />
+                <element signature="e#6560#7240#0" expanded="false" />
+                <element signature="e#7281#8259#0" expanded="false" />
+                <element signature="e#8302#8900#0" expanded="false" />
+                <element signature="e#8926#10526#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PubSub</find>
+      <find>publishColorRange</find>
+      <find>BindDashboardItem</find>
+      <find>DashboardSelectPanel</find>
+      <find>BindDashboardBox</find>
+      <find>please</find>
+      <find>compIndex</find>
+      <find>RangeAndColorComponent</find>
+      <find>Workbook</find>
+      <find>datenum</find>
+      <find>fix</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/node_modules/xlsx-style/package.json" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/data.js" />
+        <option value="$PROJECT_DIR$/dashboardData.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/components/RashboardComponent.js" />
+        <option value="$PROJECT_DIR$/components/DashboardComponent.js" />
+        <option value="$PROJECT_DIR$/components/RangeAndColorComponent.js" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/spreadsheet.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="919" />
+    <option name="y" value="26" />
+    <option name="width" value="974" />
+    <option name="height" value="1021" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spreadsheet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spreadsheet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spreadsheet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spreadsheet" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spreadsheet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spreadsheet" type="462c0819:PsiDirectoryNode" />
+              <item name="socialcalc" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7199666-7c16-49ab-adbd-b804c5c79276" name="Default" comment="" />
+      <created>1513663653226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513663653226</updated>
+      <workItem from="1513663654986" duration="5169000" />
+      <workItem from="1513844293308" duration="7032000" />
+      <workItem from="1513926928905" duration="6428000" />
+      <workItem from="1514273940961" duration="2902000" />
+      <workItem from="1514354199996" duration="9068000" />
+      <workItem from="1514429006996" duration="3256000" />
+      <workItem from="1514439832733" duration="20661000" />
+      <workItem from="1514530355967" duration="8438000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="62954000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15173867" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spreadsheet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3230">
+          <caret line="1470" column="33" lean-forward="false" selection-start-line="1470" selection-start-column="33" selection-end-line="1470" selection-end-column="33" />
+          <folding>
+            <element signature="e#316#388#0" expanded="true" />
+            <element signature="e#520#567#0" expanded="true" />
+            <element signature="e#803#1823#0" expanded="false" />
+            <element signature="n#!!block;n#isAllEqual#0" expanded="false" />
+            <element signature="n#!!block;n#isString#0" expanded="false" />
+            <element signature="n#!!block;n#Workbook#0" expanded="false" />
+            <element signature="n#!!block;n#s2ab#0" expanded="false" />
+            <element signature="n#!!block;n#datenum#0" expanded="false" />
+            <element signature="n#!!block;n#save#0" expanded="false" />
+            <element signature="n#!!block;n#exportXlsx#0" expanded="false" />
+            <element signature="n#!!block;n#switchingData#0" expanded="false" />
+            <element signature="n#!!block;n#cellColorAlarm#0" expanded="false" />
+            <element signature="e#20516#46761#0" expanded="false" />
+            <element signature="n#!!block;n#translation#0" expanded="false" />
+            <element signature="e#47576#47790#0" expanded="false" />
+            <element signature="e#48861#49679#0" expanded="false" />
+            <element signature="e#49905#50114#0" expanded="false" />
+            <element signature="e#50345#50492#0" expanded="false" />
+            <element signature="e#50728#56856#0" expanded="false" />
+            <element signature="e#57054#59869#0" expanded="false" />
+            <element signature="e#59898#62632#0" expanded="false" />
+            <element signature="e#62665#65162#0" expanded="false" />
+            <element signature="e#65403#65600#0" expanded="false" />
+            <element signature="e#67342#71408#0" expanded="false" />
+            <element signature="e#73762#77499#0" expanded="false" />
+            <element signature="e#76562#77484#0" expanded="false" />
+            <element signature="e#77533#80974#0" expanded="false" />
+            <marker date="1514542116273" expanded="true" signature="48213:48236" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/RangeAndColorComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#193#231#0" expanded="true" />
+            <element signature="e#497#1448#0" expanded="false" />
+            <element signature="e#806#1056#0" expanded="false" />
+            <element signature="e#1079#1446#0" expanded="false" />
+            <element signature="e#1525#4176#0" expanded="false" />
+            <element signature="e#4284#6524#0" expanded="false" />
+            <element signature="e#4596#4732#0" expanded="false" />
+            <element signature="e#4746#5020#0" expanded="false" />
+            <element signature="e#5172#5334#0" expanded="false" />
+            <element signature="e#5375#5951#0" expanded="false" />
+            <element signature="e#5989#6426#0" expanded="false" />
+            <element signature="e#6560#7240#0" expanded="false" />
+            <element signature="e#7281#8259#0" expanded="false" />
+            <element signature="e#8302#8900#0" expanded="false" />
+            <element signature="e#8926#10526#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/xlsx-style/xlsx.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="22" lean-forward="false" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/xlsx-style/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1957">
+          <caret line="103" column="10" lean-forward="false" selection-start-line="103" selection-start-column="10" selection-end-line="103" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spreadsheet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="e#316#388#0" expanded="true" />
+            <element signature="e#520#567#0" expanded="true" />
+            <element signature="e#803#1823#0" expanded="false" />
+            <element signature="n#!!block;n#isAllEqual#0" expanded="false" />
+            <element signature="n#!!block;n#isString#0" expanded="false" />
+            <element signature="n#!!block;n#Workbook#0" expanded="false" />
+            <element signature="n#!!block;n#s2ab#0" expanded="false" />
+            <element signature="n#!!block;n#datenum#0" expanded="false" />
+            <element signature="n#!!block;n#save#0" expanded="false" />
+            <element signature="n#!!block;n#exportXlsx#0" expanded="false" />
+            <element signature="n#!!block;n#switchingData#0" expanded="false" />
+            <element signature="n#!!block;n#cellColorAlarm#0" expanded="false" />
+            <element signature="e#20516#46761#0" expanded="false" />
+            <element signature="n#!!block;n#translation#0" expanded="false" />
+            <element signature="e#47576#47790#0" expanded="false" />
+            <element signature="e#48861#49679#0" expanded="false" />
+            <element signature="e#49905#50114#0" expanded="false" />
+            <element signature="e#50345#50492#0" expanded="false" />
+            <element signature="e#50728#56856#0" expanded="false" />
+            <element signature="e#57054#59869#0" expanded="false" />
+            <element signature="e#59898#62632#0" expanded="false" />
+            <element signature="e#62665#65162#0" expanded="false" />
+            <element signature="e#65403#65600#0" expanded="false" />
+            <element signature="e#67342#71408#0" expanded="false" />
+            <element signature="e#73762#77499#0" expanded="false" />
+            <element signature="e#76562#77484#0" expanded="false" />
+            <element signature="e#77533#80974#0" expanded="false" />
+            <marker date="1514542116273" expanded="true" signature="48213:48236" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/RangeAndColorComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#193#231#0" expanded="true" />
+            <element signature="e#497#1448#0" expanded="false" />
+            <element signature="e#806#1056#0" expanded="false" />
+            <element signature="e#1079#1446#0" expanded="false" />
+            <element signature="e#1525#4176#0" expanded="false" />
+            <element signature="e#4284#6524#0" expanded="false" />
+            <element signature="e#4596#4732#0" expanded="false" />
+            <element signature="e#4746#5020#0" expanded="false" />
+            <element signature="e#5172#5334#0" expanded="false" />
+            <element signature="e#5375#5951#0" expanded="false" />
+            <element signature="e#5989#6426#0" expanded="false" />
+            <element signature="e#6560#7240#0" expanded="false" />
+            <element signature="e#7281#8259#0" expanded="false" />
+            <element signature="e#8302#8900#0" expanded="false" />
+            <element signature="e#8926#10526#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="22" lean-forward="false" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/xlsx-style/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1957">
+          <caret line="103" column="10" lean-forward="false" selection-start-line="103" selection-start-column="10" selection-end-line="103" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spreadsheet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8493">
+          <caret line="577" column="28" lean-forward="false" selection-start-line="577" selection-start-column="12" selection-end-line="577" selection-end-column="28" />
+          <folding>
+            <element signature="e#316#388#0" expanded="true" />
+            <element signature="e#520#567#0" expanded="true" />
+            <element signature="e#803#1823#0" expanded="false" />
+            <element signature="n#!!block;n#isAllEqual#0" expanded="false" />
+            <element signature="n#!!block;n#isString#0" expanded="false" />
+            <element signature="n#!!block;n#Workbook#0" expanded="false" />
+            <element signature="n#!!block;n#s2ab#0" expanded="false" />
+            <element signature="n#!!block;n#datenum#0" expanded="false" />
+            <element signature="n#!!block;n#save#0" expanded="false" />
+            <element signature="n#!!block;n#exportXlsx#0" expanded="false" />
+            <element signature="n#!!block;n#switchingData#0" expanded="false" />
+            <element signature="n#!!block;n#cellColorAlarm#0" expanded="false" />
+            <element signature="e#20516#46761#0" expanded="false" />
+            <element signature="n#!!block;n#translation#0" expanded="false" />
+            <element signature="e#47576#47790#0" expanded="false" />
+            <element signature="e#48861#49679#0" expanded="false" />
+            <element signature="e#49905#50114#0" expanded="false" />
+            <element signature="e#50345#50492#0" expanded="false" />
+            <element signature="e#50728#56856#0" expanded="false" />
+            <element signature="e#57054#59869#0" expanded="false" />
+            <element signature="e#59898#62632#0" expanded="false" />
+            <element signature="e#62665#65162#0" expanded="false" />
+            <element signature="e#65403#65600#0" expanded="false" />
+            <element signature="e#67342#71408#0" expanded="false" />
+            <element signature="e#73762#77499#0" expanded="false" />
+            <element signature="e#76562#77484#0" expanded="false" />
+            <element signature="e#77533#80974#0" expanded="false" />
+            <marker date="1514542116273" expanded="true" signature="48213:48236" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="53" column="24" lean-forward="false" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/RangeAndColorComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#193#231#0" expanded="true" />
+            <element signature="e#497#1448#0" expanded="false" />
+            <element signature="e#806#1056#0" expanded="false" />
+            <element signature="e#1079#1446#0" expanded="false" />
+            <element signature="e#1525#4176#0" expanded="false" />
+            <element signature="e#4284#6524#0" expanded="false" />
+            <element signature="e#4596#4732#0" expanded="false" />
+            <element signature="e#4746#5020#0" expanded="false" />
+            <element signature="e#5172#5334#0" expanded="false" />
+            <element signature="e#5375#5951#0" expanded="false" />
+            <element signature="e#5989#6426#0" expanded="false" />
+            <element signature="e#6560#7240#0" expanded="false" />
+            <element signature="e#7281#8259#0" expanded="false" />
+            <element signature="e#8302#8900#0" expanded="false" />
+            <element signature="e#8926#10526#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spreadsheet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+          <folding>
+            <element signature="e#316#388#0" expanded="true" />
+            <element signature="e#520#567#0" expanded="true" />
+            <element signature="e#803#1823#0" expanded="false" />
+            <element signature="n#!!block;n#isAllEqual#0" expanded="false" />
+            <element signature="n#!!block;n#isString#0" expanded="false" />
+            <element signature="n#!!block;n#Workbook#0" expanded="false" />
+            <element signature="n#!!block;n#s2ab#0" expanded="false" />
+            <element signature="n#!!block;n#datenum#0" expanded="false" />
+            <element signature="n#!!block;n#save#0" expanded="false" />
+            <element signature="n#!!block;n#exportXlsx#0" expanded="false" />
+            <element signature="n#!!block;n#switchingData#0" expanded="false" />
+            <element signature="n#!!block;n#cellColorAlarm#0" expanded="false" />
+            <element signature="e#20516#46761#0" expanded="false" />
+            <element signature="n#!!block;n#translation#0" expanded="false" />
+            <element signature="e#47576#47790#0" expanded="false" />
+            <element signature="e#48861#49679#0" expanded="false" />
+            <element signature="e#49905#50114#0" expanded="false" />
+            <element signature="e#50345#50492#0" expanded="false" />
+            <element signature="e#50728#56856#0" expanded="false" />
+            <element signature="e#57054#59869#0" expanded="false" />
+            <element signature="e#59898#62632#0" expanded="false" />
+            <element signature="e#62665#65162#0" expanded="false" />
+            <element signature="e#65403#65600#0" expanded="false" />
+            <element signature="e#67342#71408#0" expanded="false" />
+            <element signature="e#73762#77499#0" expanded="false" />
+            <element signature="e#76562#77484#0" expanded="false" />
+            <element signature="e#77533#80974#0" expanded="false" />
+            <marker date="1514542116273" expanded="true" signature="48213:48236" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/xlsx-style/dist/ods.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/xlsx-style/dist/cpexcel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="69" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="23" lean-forward="false" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/RangeAndColorComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#193#231#0" expanded="true" />
+            <element signature="e#497#1448#0" expanded="false" />
+            <element signature="e#806#1056#0" expanded="false" />
+            <element signature="e#1079#1446#0" expanded="false" />
+            <element signature="e#1525#4176#0" expanded="false" />
+            <element signature="e#4284#6524#0" expanded="false" />
+            <element signature="e#4596#4732#0" expanded="false" />
+            <element signature="e#4746#5020#0" expanded="false" />
+            <element signature="e#5172#5334#0" expanded="false" />
+            <element signature="e#5375#5951#0" expanded="false" />
+            <element signature="e#5989#6426#0" expanded="false" />
+            <element signature="e#6560#7240#0" expanded="false" />
+            <element signature="e#7281#8259#0" expanded="false" />
+            <element signature="e#8302#8900#0" expanded="false" />
+            <element signature="e#8926#10526#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spreadsheet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <element signature="e#316#388#0" expanded="true" />
+            <element signature="e#520#567#0" expanded="true" />
+            <element signature="e#803#1823#0" expanded="false" />
+            <element signature="n#!!block;n#isAllEqual#0" expanded="false" />
+            <element signature="n#!!block;n#isString#0" expanded="false" />
+            <element signature="n#!!block;n#Workbook#0" expanded="false" />
+            <element signature="n#!!block;n#s2ab#0" expanded="false" />
+            <element signature="n#!!block;n#datenum#0" expanded="false" />
+            <element signature="n#!!block;n#save#0" expanded="false" />
+            <element signature="n#!!block;n#exportXlsx#0" expanded="false" />
+            <element signature="n#!!block;n#switchingData#0" expanded="false" />
+            <element signature="n#!!block;n#cellColorAlarm#0" expanded="false" />
+            <element signature="e#20516#46761#0" expanded="false" />
+            <element signature="n#!!block;n#translation#0" expanded="false" />
+            <element signature="e#47576#47790#0" expanded="false" />
+            <element signature="e#48861#49679#0" expanded="false" />
+            <element signature="e#49905#50114#0" expanded="false" />
+            <element signature="e#50345#50492#0" expanded="false" />
+            <element signature="e#50728#56856#0" expanded="false" />
+            <element signature="e#57054#59869#0" expanded="false" />
+            <element signature="e#59898#62632#0" expanded="false" />
+            <element signature="e#62665#65162#0" expanded="false" />
+            <element signature="e#65403#65600#0" expanded="false" />
+            <element signature="e#67342#71408#0" expanded="false" />
+            <element signature="e#73762#77499#0" expanded="false" />
+            <element signature="e#76562#77484#0" expanded="false" />
+            <element signature="e#77533#80974#0" expanded="false" />
+            <marker date="1514542116273" expanded="true" signature="48213:48236" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="23" lean-forward="false" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/xlsx/dist/cpexcel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/xlsx-style/dist/cpexcel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/xlsx-style/dist/ods.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/xlsx-style/node_modules/commander/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/xlsx/node_modules/codepage/README.md" />
+    <entry file="file://$PROJECT_DIR$/node_modules/xlsx/node_modules/codepage/package.json" />
+    <entry file="file://$PROJECT_DIR$/node_modules/xlsx/node_modules/codepage/dist/cpexcel.full.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/xlsx/node_modules/codepage/cptable.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/xlsx/node_modules/codepage/cputils.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/xlsx/node_modules/codepage/LICENSE" />
+    <entry file="file://$PROJECT_DIR$/node_modules/xlsx-style/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1957">
+          <caret line="103" column="10" lean-forward="false" selection-start-line="103" selection-start-column="10" selection-end-line="103" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/xlsx-style/xlsx.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" column="27" lean-forward="false" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="842" column="0" lean-forward="false" selection-start-line="842" selection-start-column="0" selection-end-line="842" selection-end-column="0" />
+          <folding>
+            <element signature="e#1380#2736#0" expanded="false" />
+            <element signature="e#2746#4103#0" expanded="false" />
+            <element signature="e#4113#5472#0" expanded="false" />
+            <element signature="e#5482#6828#0" expanded="false" />
+            <element signature="e#6838#8190#0" expanded="false" />
+            <element signature="e#8200#9558#0" expanded="false" />
+            <element signature="e#9568#10919#0" expanded="false" />
+            <element signature="e#10929#12282#0" expanded="false" />
+            <element signature="e#12292#13641#0" expanded="false" />
+            <element signature="e#13651#15006#0" expanded="false" />
+            <element signature="e#15016#16371#0" expanded="false" />
+            <element signature="e#16381#17686#0" expanded="false" />
+            <element signature="e#17696#19001#0" expanded="false" />
+            <element signature="e#19011#20316#0" expanded="false" />
+            <element signature="e#20326#21631#0" expanded="false" />
+            <element signature="e#21641#22945#0" expanded="false" />
+            <element signature="e#22955#24259#0" expanded="false" />
+            <element signature="e#24269#25573#0" expanded="false" />
+            <element signature="e#25583#26887#0" expanded="false" />
+            <element signature="e#26897#28248#0" expanded="false" />
+            <element signature="e#28258#29615#0" expanded="false" />
+            <element signature="e#29625#30976#0" expanded="false" />
+            <element signature="e#30986#32337#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/RashboardComponent.js" />
+    <entry file="file://$PROJECT_DIR$/dashboardData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/DashboardComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="44" lean-forward="false" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#292#3386#0" expanded="false" />
+            <element signature="e#3569#6049#0" expanded="false" />
+            <element signature="e#6052#6101#0" expanded="false" />
+            <element signature="n#DashboardSelectPanel#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/RangeAndColorComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="281" column="6" lean-forward="false" selection-start-line="281" selection-start-column="6" selection-end-line="281" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#193#231#0" expanded="true" />
+            <element signature="e#497#1448#0" expanded="false" />
+            <element signature="e#806#1056#0" expanded="false" />
+            <element signature="e#1079#1446#0" expanded="false" />
+            <element signature="e#1525#4176#0" expanded="false" />
+            <element signature="e#4284#6524#0" expanded="false" />
+            <element signature="e#4596#4732#0" expanded="false" />
+            <element signature="e#4746#5020#0" expanded="false" />
+            <element signature="e#5172#5334#0" expanded="false" />
+            <element signature="e#5375#5951#0" expanded="false" />
+            <element signature="e#5989#6426#0" expanded="false" />
+            <element signature="e#6560#7240#0" expanded="false" />
+            <element signature="e#7281#8259#0" expanded="false" />
+            <element signature="e#8302#8900#0" expanded="false" />
+            <element signature="e#8926#10526#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socialcalc/SocialCalc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#767#2033#0" expanded="false" />
+            <element signature="e#2086#2126#0" expanded="false" />
+            <element signature="e#3695#49214#0" expanded="false" />
+            <element signature="e#1018778#1019285#0" expanded="false" />
+            <element signature="e#1019375#1019522#0" expanded="false" />
+            <marker date="1514530292283" expanded="true" signature="923543:923577" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="923669:923681" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="923997:924003" ph=" " />
+            <marker date="1514530292283" expanded="true" signature="924003:924009" ph=" " />
+            <marker date="1514530292283" expanded="true" signature="924048:924082" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="924174:924186" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="924512:924568" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="924692:924753" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="924817:924835" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="924896:924902" ph=" " />
+            <marker date="1514530292283" expanded="true" signature="924965:924983" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="925620:925650" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="925677:925751" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="925756:925762" ph=" " />
+            <marker date="1514530292283" expanded="true" signature="925810:925851" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="925910:925916" ph=" " />
+            <marker date="1514530292283" expanded="true" signature="925917:925923" ph=" " />
+            <marker date="1514530292283" expanded="true" signature="925963:925985" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="930405:930454" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="930500:930569" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="930652:930670" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="930732:930738" ph=" " />
+            <marker date="1514530292283" expanded="true" signature="930799:930817" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="930879:930885" ph=" " />
+            <marker date="1514530292283" expanded="true" signature="930947:930965" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="931601:931631" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="931658:931732" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="931814:931855" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="931914:931920" ph=" " />
+            <marker date="1514530292283" expanded="true" signature="931921:931927" ph=" " />
+            <marker date="1514530292283" expanded="true" signature="931967:931989" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="935772:935796" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="935824:935842" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="935935:935947" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="936028:936046" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="936130:936142" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="936310:936328" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="936427:936439" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="936528:936546" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="936646:936658" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="936825:936831" ph=" " />
+            <marker date="1514530292283" expanded="true" signature="936857:936875" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="936975:936981" ph=" " />
+            <marker date="1514530292283" expanded="true" signature="937007:937025" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="937110:937179" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="937254:937272" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="937329:937335" ph=" " />
+            <marker date="1514530292283" expanded="true" signature="937396:937414" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="937471:937477" ph=" " />
+            <marker date="1514530292283" expanded="true" signature="937539:937557" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="938188:938218" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="938245:938319" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="938324:938330" ph=" " />
+            <marker date="1514530292283" expanded="true" signature="938383:938424" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="938478:938484" ph=" " />
+            <marker date="1514530292283" expanded="true" signature="938485:938491" ph=" " />
+            <marker date="1514530292283" expanded="true" signature="938531:938553" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="994931:994956" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="1001949:1001965" ph="..." />
+            <marker date="1514530292283" expanded="true" signature="1001984:1001990" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="102" lean-forward="false" selection-start-line="11" selection-start-column="102" selection-end-line="11" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="39" column="22" lean-forward="false" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="106" column="14" lean-forward="false" selection-start-line="106" selection-start-column="14" selection-end-line="106" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spreadsheet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1253">
+          <caret line="1631" column="7" lean-forward="false" selection-start-line="1631" selection-start-column="7" selection-end-line="1631" selection-end-column="7" />
+          <folding>
+            <element signature="e#316#388#0" expanded="true" />
+            <element signature="e#520#567#0" expanded="true" />
+            <element signature="e#803#1823#0" expanded="false" />
+            <element signature="n#!!block;n#isAllEqual#0" expanded="false" />
+            <element signature="n#!!block;n#isString#0" expanded="false" />
+            <element signature="n#!!block;n#Workbook#0" expanded="false" />
+            <element signature="n#!!block;n#s2ab#0" expanded="false" />
+            <element signature="n#!!block;n#datenum#0" expanded="false" />
+            <element signature="n#!!block;n#save#0" expanded="false" />
+            <element signature="n#!!block;n#exportXlsx#0" expanded="false" />
+            <element signature="n#!!block;n#switchingData#0" expanded="false" />
+            <element signature="n#!!block;n#cellColorAlarm#0" expanded="false" />
+            <element signature="e#20516#46761#0" expanded="false" />
+            <element signature="n#!!block;n#translation#0" expanded="false" />
+            <element signature="e#47576#47790#0" expanded="false" />
+            <element signature="e#48861#49679#0" expanded="false" />
+            <element signature="e#49905#50114#0" expanded="false" />
+            <element signature="e#50345#50492#0" expanded="false" />
+            <element signature="e#50728#56856#0" expanded="false" />
+            <element signature="e#57054#59869#0" expanded="false" />
+            <element signature="e#59898#62632#0" expanded="false" />
+            <element signature="e#62665#65162#0" expanded="false" />
+            <element signature="e#65403#65600#0" expanded="false" />
+            <element signature="e#67342#71408#0" expanded="false" />
+            <element signature="e#73762#77499#0" expanded="false" />
+            <element signature="e#76562#77484#0" expanded="false" />
+            <element signature="e#77533#80974#0" expanded="false" />
+            <marker date="1514542116273" expanded="true" signature="48213:48236" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

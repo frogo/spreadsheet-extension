@@ -1,0 +1,120 @@
+*{padding:0;margin: 0}
+/*  颜色范围组件RangeAndColorComponent样式  */
+.range-input {
+    width: 80px;
+    height: 26px;
+    border: 1px solid #ccc;
+    float: left;
+    text-indent: 5px;
+}
+.range-icon {
+    display: inline-block;
+    width: 30px;
+    height: 26px;
+    border: 1px solid #ccc;
+    float: left;
+    line-height: 26px;
+    text-align: center;
+}
+.range-text {
+    float: left;
+    display: inline-block;
+    width: 30px;
+    text-align: center;
+    line-height: 26px;
+}
+.color-border {
+    display: inline-block;
+    border: 1px solid #ccc;
+    padding: 1px;
+    margin-left: 4px;
+    float: left;
+}
+.dashboardItem .delete, .range-delete {
+    width: 30px;
+    height: 26px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: inline-block;
+    margin-left: 5px;
+    text-align: center;
+    opacity: 0;
+    vertical-align: middle;
+}
+#rangeBlock .color-range-comp .range-delete:hover,.dashboardItem .delete:hover {
+    opacity: 1;
+}
+.range-delete-icon,.delete-icon {
+    height: 26px;
+    line-height: 26px;
+}
+.color-range-comp {
+    margin: 6px 0 10px;
+}
+.clear-float {
+    clear: both;
+}
+.border-radius-left {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-right: none;
+}
+.border-radius-right {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.minicolors-theme-default .minicolors-swatch {
+    top: 5px;
+    left: 5px;
+    width: 21px!important;
+}
+.minicolors-theme-default .minicolors-panel {
+    left: -150px!important;
+}
+.range-block {
+    width: auto;
+    float: left;
+}
+/*  颜色范围组件样式  */
+
+.dashboardItem{margin: 0 0 10px 0}
+
+
+
+
+.btn {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-bottom: 0;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.btn-default {
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+}
+
+
+.spreadsheet-container{overflow:auto;}
+
+.spreadsheet-container .freeze_row,
+.spreadsheet-container .freeze_col
+{
+    position:absolute;left:0;top:0
+}
