@@ -5,10 +5,10 @@ This app is based on <a href="https://github.com/DanBricklin/socialcalc" target=
 3. Freeze pane
 4. Cell drop-down
 ...
+
+# demo
 <a href="http://frogo.cn/spreadsheet/">Demo</a>
 
-# install
+# test
 npm install
-
-# run
 npm run start
