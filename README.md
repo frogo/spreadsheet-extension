@@ -6,9 +6,9 @@ This app is based on <a href="https://github.com/DanBricklin/socialcalc" target=
 4. Cell drop-down
 ...
 
-# demo
+## demo
 <a href="http://frogo.cn/spreadsheet/">Demo</a>
 
-# test
-1.npm install
-2.npm run start
+## test
+* npm install
+* npm run start
