@@ -7,8 +7,7 @@
     "test": "spec"
   },
   "scripts": {
-    "start": "webpack -d & node start.js",
-    "dev": "NODE_ENV=dev webpack --watch --colors --progress --debug --output-pathinfo --source-map"
+    "start": "webpack -d & node start.js"
   },
   "repository": {
     "type": "git",

@@ -4,3 +4,7 @@ This app is based on <a href="https://github.com/DanBricklin/socialcalc" target=
 2. Cell data binding, cell data binding line extension, column extension
 3. Freeze pane
 4. Cell drop-down
+
+run
+
+npm run start
