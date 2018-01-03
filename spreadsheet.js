@@ -12,7 +12,7 @@ var $ = window.$ = require('jquery');
 require('./pulgin/Blob.js');
 
 import 'react-select2-wrapper/css/select2.css';
-import './style.css';
+import './style/style.css';
 window.SocialCalc = SocialCalc;
 window.XLSX = XLSX;
 
@@ -991,7 +991,7 @@ module.exports = function (slice) {
   var has_init = false; // Initial flags, 'code' can only be updated after init
   var spreadsheet = {}; // declare spreadsheet obj for current spreadsheet slice
   var expolre_mode = false;
-  SocialCalc.ConstantsSetImagePrefix('/socialcalc/images/sc_');
+  SocialCalc.ConstantsSetImagePrefix('socialcalc/images/sc_');
 
   // translation must done before create an instance of SocialCalc.SpreadsheetControl
   translation();
@@ -1215,7 +1215,7 @@ module.exports = function (slice) {
          }
     }
 
-      $.getJSON("data.js",function(result){
+      $.getJSON("testData/data.js",function(result){
           init_data(result)
           s.sheetDataMap = result
       })
@@ -1243,7 +1243,7 @@ module.exports = function (slice) {
       );
 
 
-      $.getJSON("dashboardData.js",function(data) {
+      $.getJSON("testData/dashboardData.js",function(data) {
           var dashboardData = [],
               dashboardList = [];
 

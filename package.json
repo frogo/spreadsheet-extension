@@ -7,11 +7,8 @@
     "test": "spec"
   },
   "scripts": {
-    "test": "npm run lint && mocha --compilers js:babel-core/register --required spec/helpers/browser.js spec/**/*_spec.*",
-    "dev": "NODE_ENV=dev webpack --watch --colors --progress --debug --output-pathinfo --source-map",
-    "prod": "NODE_ENV=production node --max_old_space_size=8192 ./node_modules/webpack/bin/webpack.js -p --colors --progress",
-    "dbg": "NODE_ENV=dev node --max_old_space_size=3072 ./node_modules/webpack/bin/webpack.js -d --colors --display-chunks --display-reasons --progress",
-    "lint": "eslint --ignore-path=.eslintignore --ext .js,.jsx ."
+    "start": "webpack -d & node start.js",
+    "dev": "NODE_ENV=dev webpack --watch --colors --progress --debug --output-pathinfo --source-map"
   },
   "repository": {
     "type": "git",
