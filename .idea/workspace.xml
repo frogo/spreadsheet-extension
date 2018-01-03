@@ -27,16 +27,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="spreadsheet.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spreadsheet.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -65,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/style/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="99" column="11" lean-forward="true" selection-start-line="99" selection-start-column="11" selection-end-line="99" selection-end-column="11" />
+              <caret line="99" column="11" lean-forward="false" selection-start-line="99" selection-start-column="11" selection-end-line="99" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -75,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/socialcalc/SocialCalc.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="393">
-              <caret line="24178" column="50" lean-forward="true" selection-start-line="24178" selection-start-column="50" selection-end-line="24178" selection-end-column="50" />
+              <caret line="24178" column="50" lean-forward="false" selection-start-line="24178" selection-start-column="50" selection-end-line="24178" selection-end-column="50" />
               <folding>
                 <marker date="1514530292283" expanded="true" signature="9862:9945" ph="..." />
                 <marker date="1514530292283" expanded="true" signature="10191:10274" ph="..." />
@@ -345,8 +335,18 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="133">
+              <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -404,7 +404,6 @@
         <option value="$PROJECT_DIR$/node_modules/xlsx-style/package.json" />
         <option value="$PROJECT_DIR$/data.js" />
         <option value="$PROJECT_DIR$/dashboardData.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/components/RashboardComponent.js" />
         <option value="$PROJECT_DIR$/components/DashboardComponent.js" />
         <option value="$PROJECT_DIR$/main.js" />
@@ -419,6 +418,7 @@
         <option value="$PROJECT_DIR$/HttpServer.js" />
         <option value="$PROJECT_DIR$/spreadsheet.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -522,12 +522,12 @@
       <workItem from="1514439832733" duration="20661000" />
       <workItem from="1514530355967" duration="8438000" />
       <workItem from="1514944862844" duration="8228000" />
-      <workItem from="1514966807640" duration="2697000" />
+      <workItem from="1514966807640" duration="3715000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73879000" />
+    <option name="totallyTimeSpent" value="74897000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -790,14 +790,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app.js" />
     <entry file="file://$PROJECT_DIR$/web/main.js" />
     <entry file="file://$PROJECT_DIR$/web/index.html" />
@@ -865,7 +857,7 @@
     <entry file="file://$PROJECT_DIR$/socialcalc/SocialCalc.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="393">
-          <caret line="24178" column="50" lean-forward="true" selection-start-line="24178" selection-start-column="50" selection-end-line="24178" selection-end-column="50" />
+          <caret line="24178" column="50" lean-forward="false" selection-start-line="24178" selection-start-column="50" selection-end-line="24178" selection-end-column="50" />
           <folding>
             <marker date="1514530292283" expanded="true" signature="9862:9945" ph="..." />
             <marker date="1514530292283" expanded="true" signature="10191:10274" ph="..." />
@@ -1102,7 +1094,7 @@
     <entry file="file://$PROJECT_DIR$/style/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="99" column="11" lean-forward="true" selection-start-line="99" selection-start-column="11" selection-end-line="99" selection-end-column="11" />
+          <caret line="99" column="11" lean-forward="false" selection-start-line="99" selection-start-column="11" selection-end-line="99" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -1137,10 +1129,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="133">
+          <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
           <folding />
         </state>
       </provider>
