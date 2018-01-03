@@ -5,6 +5,9 @@ This app is based on <a href="https://github.com/DanBricklin/socialcalc" target=
 3. Freeze pane
 4. Cell drop-down
 
-run
 
+# install
+npm install
+
+# run
 npm run start
